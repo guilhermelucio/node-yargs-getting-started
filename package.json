@@ -1,0 +1,17 @@
+{
+  "name": "gl-node-yargs-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.6"
+  },
+  "dependencies": {
+    "yargs": "^4.7.1"
+  }
+}
